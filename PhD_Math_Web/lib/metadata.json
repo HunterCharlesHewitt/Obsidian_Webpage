@@ -1,0 +1,1590 @@
+{
+  "vaultName": "Obsidian_Math",
+  "lastExport": 1709017701533,
+  "pluginVersion": "1.8.0",
+  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "Alexander_Class/Homework/Homework 3.md",
+    "Alexander_Class/Functional Analysis - Ch.5.md",
+    "Alexander_Class/Topological Spaces - Ch.4.md",
+    "Analysis/Complex Analysis/Definitions/Algebraic Order.md",
+    "Analysis/Complex Analysis/Definitions/Analytic (Holomorphic) Function.md",
+    "Analysis/Complex Analysis/Definitions/Harmonic Function.md",
+    "Analysis/Complex Analysis/Definitions/Laplace's Equation.md",
+    "Analysis/Complex Analysis/Definitions/Line Integral (Complex).md",
+    "Analysis/Complex Analysis/Definitions/Pole.md",
+    "Analysis/Complex Analysis/Definitions/Removable Singularity.md",
+    "Analysis/Complex Analysis/Definitions/The Index of a Point (Winding Number).md",
+    "Analysis/Complex Analysis/Definitions/Zero of Order H.md",
+    "Analysis/Complex Analysis/Results/Cauchy's Estimate.md",
+    "Analysis/Complex Analysis/Results/Theorem 4.3.7 (Ahlfors).md",
+    "Analysis/Complex Analysis/Assignment.md",
+    "Analysis/Functional Analysis/Definitions/Absolute Convergence of a Series.md",
+    "Analysis/Functional Analysis/Definitions/Banach Space.md",
+    "Analysis/Functional Analysis/Definitions/Bounded (Linear Map).md",
+    "Analysis/Functional Analysis/Definitions/Closed Linear Map.md",
+    "Analysis/Functional Analysis/Definitions/Convergence of a Series.md",
+    "Analysis/Functional Analysis/Definitions/Dual Space.md",
+    "Analysis/Functional Analysis/Definitions/Equivalence of Norms.md",
+    "Analysis/Functional Analysis/Definitions/Euclidean Norm.md",
+    "Analysis/Functional Analysis/Definitions/Graph.md",
+    "Analysis/Functional Analysis/Definitions/Invertible Function (isomorphism).md",
+    "Analysis/Functional Analysis/Definitions/L1 norm.md",
+    "Analysis/Functional Analysis/Definitions/Linear Space of Bounded Continuous Functions (BC(X)).md",
+    "Analysis/Functional Analysis/Definitions/Linear Space of Bounded Functions B(X).md",
+    "Analysis/Functional Analysis/Definitions/Linear Space of Continuous Functions (C(X)).md",
+    "Analysis/Functional Analysis/Definitions/Locally Convex.md",
+    "Analysis/Functional Analysis/Definitions/Minkowski (Sublinear) Functional.md",
+    "Analysis/Functional Analysis/Definitions/Norm.md",
+    "Analysis/Functional Analysis/Definitions/Open (map).md",
+    "Analysis/Functional Analysis/Definitions/Operator Norm.md",
+    "Analysis/Functional Analysis/Definitions/Seminorm.md",
+    "Analysis/Functional Analysis/Definitions/Topological Vector Space.md",
+    "Analysis/Functional Analysis/Definitions/Uniform Norm (sup norm).md",
+    "Analysis/Functional Analysis/Results/5.1 Theorem (Folland).md",
+    "Analysis/Functional Analysis/Results/5.2 Proposition (Folland).md",
+    "Analysis/Functional Analysis/Results/5.4 Proposition (Folland).md",
+    "Analysis/Functional Analysis/Results/5.8 Theorem (Folland).md",
+    "Analysis/Functional Analysis/Results/5.11 Corollary.md",
+    "Analysis/Functional Analysis/Results/Absolute Value is the Only Norm on the Reals.md",
+    "Analysis/Functional Analysis/Results/Convergence in Norm Implies Weak Convergence.md",
+    "Analysis/Functional Analysis/Results/Equivalent Norms Give the Same Norm Topology.md",
+    "Analysis/Functional Analysis/Results/L1 Norm is Equivalent to Euclidean Norm.md",
+    "Analysis/Functional Analysis/Results/Normed Linear Space Defines a Metric.md",
+    "Analysis/Functional Analysis/Results/The Baire Category Theorem.md",
+    "Analysis/Functional Analysis/Results/The Closed Graph Theorem.md",
+    "Analysis/Functional Analysis/Results/The Hahn-Banach Theorem.md",
+    "Analysis/Functional Analysis/Results/The Open Mapping Theorem.md",
+    "Analysis/Functional Analysis/Results/The Uniform Boundedness Principle.md",
+    "Analysis/Real Analysis/Measurable.md",
+    "Analysis/Real Analysis/Zorn's Lemma.md",
+    "Haydn_Class/Homework/Week of 12 February Homework.md",
+    "Latex/Latex Packages.md",
+    "Latex/Limit of Differentiable functions.png",
+    "Latex/Pasted image 20240218121348.png",
+    "Latex/Pasted image 20240218230802.png",
+    "Measure Theory/L1(u).md",
+    "Metric Spaces/Cauchy.md",
+    "Metric Spaces/Complete.md",
+    "Metric Spaces/Continuity (Metric Spaces).md",
+    "Metric Spaces/Continuous iff Inverse Preserves Open Sets.md",
+    "Metric Spaces/Metric Space.md",
+    "Metric Spaces/Open Ball.md",
+    "Metric Spaces/Open Set (Metric Space).md",
+    "Set Theory/Finite Intersection Property.md",
+    "Topology/Definitions/Accumulation Point.md",
+    "Topology/Definitions/Base.md",
+    "Topology/Definitions/Boundary.md",
+    "Topology/Definitions/Closure.md",
+    "Topology/Definitions/Cluster Point.md",
+    "Topology/Definitions/Coarser (weaker).md",
+    "Topology/Definitions/Compact (Topological Space).md",
+    "Topology/Definitions/Compact (Topological Subspace).md",
+    "Topology/Definitions/Compactly Supported.md",
+    "Topology/Definitions/Completely Regular (Tychonoff Space).md",
+    "Topology/Definitions/Continuous at a Point (Topology).md",
+    "Topology/Definitions/Continuous Function (Topology).md",
+    "Topology/Definitions/Convergence (Topological Space).md",
+    "Topology/Definitions/Countably Compact.md",
+    "Topology/Definitions/Dense.md",
+    "Topology/Definitions/Directed Set.md",
+    "Topology/Definitions/Embedding.md",
+    "Topology/Definitions/Equicontinuous (at a Point).md",
+    "Topology/Definitions/Equicontinuous (over a set of continuous functions).md",
+    "Topology/Definitions/Eventually.md",
+    "Topology/Definitions/First Category (Meager).md",
+    "Topology/Definitions/First Countable (First Axiom of Countability).md",
+    "Topology/Definitions/Frequently.md",
+    "Topology/Definitions/Hausdorff Space (T2 Space).md",
+    "Topology/Definitions/Homeomorphic.md",
+    "Topology/Definitions/Homeomorphism.md",
+    "Topology/Definitions/Interior.md",
+    "Topology/Definitions/LCH (Locally Compact Hausdorff).md",
+    "Topology/Definitions/Limit (Net).md",
+    "Topology/Definitions/Linear Space of Continuous Real-Valued Functions.md",
+    "Topology/Definitions/Locally Compact.md",
+    "Topology/Definitions/Neighborhood (of a point).md",
+    "Topology/Definitions/Neighborhood (of a Set).md",
+    "Topology/Definitions/Neighborhood Base.md",
+    "Topology/Definitions/Net.md",
+    "Topology/Definitions/Norm Topology.md",
+    "Topology/Definitions/Normal Space (T4 Space).md",
+    "Topology/Definitions/Nowhere Dense.md",
+    "Topology/Definitions/One-Point (Alexandroff) Compactification.md",
+    "Topology/Definitions/Open Set (Topology).md",
+    "Topology/Definitions/Partition of Unity.md",
+    "Topology/Definitions/Pointwise Bounded.md",
+    "Topology/Definitions/Precompact.md",
+    "Topology/Definitions/Product Topology.md",
+    "Topology/Definitions/Regular Space (T3 Space).md",
+    "Topology/Definitions/Relative Topology.md",
+    "Topology/Definitions/Relatively Open Sets (Topology).md",
+    "Topology/Definitions/Residual.md",
+    "Topology/Definitions/Second Category.md",
+    "Topology/Definitions/Second Countability (Second Axiom of Countability).md",
+    "Topology/Definitions/Separable.md",
+    "Topology/Definitions/Separation Axioms.md",
+    "Topology/Definitions/Sequentially Compact.md",
+    "Topology/Definitions/Set of Continuous Maps from X to Y (C(X,Y)).md",
+    "Topology/Definitions/Set of Maps from A to X.md",
+    "Topology/Definitions/Sigma Compact.md",
+    "Topology/Definitions/Subnet.md",
+    "Topology/Definitions/Subordinate.md",
+    "Topology/Definitions/Support.md",
+    "Topology/Definitions/T0 Space.md",
+    "Topology/Definitions/T1 Space.md",
+    "Topology/Definitions/Topological Space.md",
+    "Topology/Definitions/Topology.md",
+    "Topology/Definitions/Topology Generated by e (subbase).md",
+    "Topology/Definitions/Topology of Uniform Convergence.md",
+    "Topology/Definitions/Topology of Uniform Convergence on Compact Sets.md",
+    "Topology/Definitions/Vanishes at Infinity.md",
+    "Topology/Definitions/Weak Topology.md",
+    "Topology/Results/4.1 Proposition (Folland).md",
+    "Topology/Results/4.2 Proposition (Folland).md",
+    "Topology/Results/4.3 Proposition (Folland).md",
+    "Topology/Results/4.4 Proposition (Folland).md",
+    "Topology/Results/4.5 Proposition (Folland).md",
+    "Topology/Results/4.6 Proposition (Folland).md",
+    "Topology/Results/4.7 Proposition (Folland).md",
+    "Topology/Results/4.8 Proposition (Folland).md",
+    "Topology/Results/4.9 Proposition (Folland).md",
+    "Topology/Results/4.10 Proposition (Folland).md",
+    "Topology/Results/4.11 Proposition (Folland).md",
+    "Topology/Results/4.12 Proposition (Folland).md",
+    "Topology/Results/4.13 Proposition (Folland).md",
+    "Topology/Results/4.14 Lemma (Folland).md",
+    "Topology/Results/4.17 Corollary (Folland).md",
+    "Topology/Results/4.18 Proposition (Folland).md",
+    "Topology/Results/4.19 Proposition (Folland).md",
+    "Topology/Results/4.20 Proposition (Folland).md",
+    "Topology/Results/4.21 Proposition (Folland).md",
+    "Topology/Results/4.22 Proposition (Folland).md",
+    "Topology/Results/4.23 Proposition (Folland).md",
+    "Topology/Results/4.24 Proposition (Folland).md",
+    "Topology/Results/4.25 Proposition (Folland).md",
+    "Topology/Results/4.26 Proposition (Folland).md",
+    "Topology/Results/4.27 Corollary (Folland).md",
+    "Topology/Results/4.28 Proposition (Folland).md",
+    "Topology/Results/4.29 Theorem (Folland).md",
+    "Topology/Results/4.30 Proposition (Folland).md",
+    "Topology/Results/4.31 Proposition (Folland).md",
+    "Topology/Results/4.33 Corollary (Folland).md",
+    "Topology/Results/4.35 Proposition (Folland).md",
+    "Topology/Results/4.36 Proposition (Folland).md",
+    "Topology/Results/4.37 Lemma (Folland).md",
+    "Topology/Results/4.38 Lemma (Folland).md",
+    "Topology/Results/4.39 Proposition (Folland).md",
+    "Topology/Results/4.40 Proposition (Folland).md",
+    "Topology/Results/4.41 Proposition (Folland).md",
+    "Topology/Results/Arzela-Ascoli Theorem I.md",
+    "Topology/Results/Arzela-Ascoli Theorem II.md",
+    "Topology/Results/Tietze Extension Theorem.md",
+    "Topology/Results/Tietze Extension Theorem, Locally Compact Version.md",
+    "Topology/Results/Tychonoff's Theorem.md",
+    "Topology/Results/Urysohn's Lemma.md",
+    "Topology/Results/Urysohn's Lemma, Locally Compact Version.md",
+    "Dyadic Rational.md",
+    "README.md",
+    "Uniform Metric.md",
+    "Vanish.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "Alexander_Class/Homework/Homework 3.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 14376,
+      "exportedPath": "Alexander_Class/Homework/Homework 3.html",
+      "dependencies": []
+    },
+    "Alexander_Class/Functional Analysis - Ch.5.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 23031,
+      "exportedPath": "Alexander_Class/Functional Analysis - Ch.5.html",
+      "dependencies": []
+    },
+    "Alexander_Class/Topological Spaces - Ch.4.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1919,
+      "exportedPath": "Alexander_Class/Topological Spaces - Ch.4.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Algebraic Order.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1162,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Algebraic Order.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Analytic (Holomorphic) Function.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 371,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Analytic (Holomorphic) Function.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Harmonic Function.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 198,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Harmonic Function.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Laplace's Equation.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 267,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Laplace's Equation.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Line Integral (Complex).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 509,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Line Integral (Complex).html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Pole.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 157,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Pole.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Removable Singularity.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 418,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Removable Singularity.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/The Index of a Point (Winding Number).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 204,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/The Index of a Point (Winding Number).html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Definitions/Zero of Order H.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 294,
+      "exportedPath": "Analysis/Complex Analysis/Definitions/Zero of Order H.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Results/Cauchy's Estimate.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 144,
+      "exportedPath": "Analysis/Complex Analysis/Results/Cauchy's Estimate.html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Results/Theorem 4.3.7 (Ahlfors).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 399,
+      "exportedPath": "Analysis/Complex Analysis/Results/Theorem 4.3.7 (Ahlfors).html",
+      "dependencies": []
+    },
+    "Analysis/Complex Analysis/Assignment.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1114,
+      "exportedPath": "Analysis/Complex Analysis/Assignment.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Absolute Convergence of a Series.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 193,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Absolute Convergence of a Series.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Banach Space.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 672,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Banach Space.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Bounded (Linear Map).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 726,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Bounded (Linear Map).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Closed Linear Map.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 414,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Closed Linear Map.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Convergence of a Series.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 210,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Convergence of a Series.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Dual Space.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 423,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Dual Space.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Equivalence of Norms.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1037,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Equivalence of Norms.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Euclidean Norm.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 130,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Euclidean Norm.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Graph.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 410,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Graph.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Invertible Function (isomorphism).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 194,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Invertible Function (isomorphism).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/L1 norm.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 308,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/L1 norm.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Linear Space of Bounded Continuous Functions (BC(X)).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 422,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Linear Space of Bounded Continuous Functions (BC(X)).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Linear Space of Bounded Functions B(X).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 136,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Linear Space of Bounded Functions B(X).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Linear Space of Continuous Functions (C(X)).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 302,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Linear Space of Continuous Functions (C(X)).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Locally Convex.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 358,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Locally Convex.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Minkowski (Sublinear) Functional.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 548,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Minkowski (Sublinear) Functional.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Norm.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 182,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Norm.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Open (map).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 247,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Open (map).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Operator Norm.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 252,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Operator Norm.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Seminorm.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1184,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Seminorm.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Topological Vector Space.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 371,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Topological Vector Space.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Definitions/Uniform Norm (sup norm).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 240,
+      "exportedPath": "Analysis/Functional Analysis/Definitions/Uniform Norm (sup norm).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/5.1 Theorem (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1657,
+      "exportedPath": "Analysis/Functional Analysis/Results/5.1 Theorem (Folland).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/5.2 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1602,
+      "exportedPath": "Analysis/Functional Analysis/Results/5.2 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/5.4 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1045,
+      "exportedPath": "Analysis/Functional Analysis/Results/5.4 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/5.8 Theorem (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 746,
+      "exportedPath": "Analysis/Functional Analysis/Results/5.8 Theorem (Folland).html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/5.11 Corollary.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 264,
+      "exportedPath": "Analysis/Functional Analysis/Results/5.11 Corollary.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/Absolute Value is the Only Norm on the Reals.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 44,
+      "exportedPath": "Analysis/Functional Analysis/Results/Absolute Value is the Only Norm on the Reals.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/Convergence in Norm Implies Weak Convergence.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 79,
+      "exportedPath": "Analysis/Functional Analysis/Results/Convergence in Norm Implies Weak Convergence.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/Equivalent Norms Give the Same Norm Topology.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 48,
+      "exportedPath": "Analysis/Functional Analysis/Results/Equivalent Norms Give the Same Norm Topology.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/L1 Norm is Equivalent to Euclidean Norm.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 788,
+      "exportedPath": "Analysis/Functional Analysis/Results/L1 Norm is Equivalent to Euclidean Norm.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/Normed Linear Space Defines a Metric.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 978,
+      "exportedPath": "Analysis/Functional Analysis/Results/Normed Linear Space Defines a Metric.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/The Baire Category Theorem.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 431,
+      "exportedPath": "Analysis/Functional Analysis/Results/The Baire Category Theorem.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/The Closed Graph Theorem.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 205,
+      "exportedPath": "Analysis/Functional Analysis/Results/The Closed Graph Theorem.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/The Hahn-Banach Theorem.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 4572,
+      "exportedPath": "Analysis/Functional Analysis/Results/The Hahn-Banach Theorem.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/The Open Mapping Theorem.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 209,
+      "exportedPath": "Analysis/Functional Analysis/Results/The Open Mapping Theorem.html",
+      "dependencies": []
+    },
+    "Analysis/Functional Analysis/Results/The Uniform Boundedness Principle.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 539,
+      "exportedPath": "Analysis/Functional Analysis/Results/The Uniform Boundedness Principle.html",
+      "dependencies": []
+    },
+    "Analysis/Real Analysis/Measurable.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 15,
+      "exportedPath": "Analysis/Real Analysis/Measurable.html",
+      "dependencies": []
+    },
+    "Analysis/Real Analysis/Zorn's Lemma.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 15,
+      "exportedPath": "Analysis/Real Analysis/Zorn's Lemma.html",
+      "dependencies": []
+    },
+    "Haydn_Class/Homework/Week of 12 February Homework.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 7263,
+      "exportedPath": "Haydn_Class/Homework/Week of 12 February Homework.html",
+      "dependencies": []
+    },
+    "Latex/Latex Packages.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 98,
+      "exportedPath": "Latex/Latex Packages.html",
+      "dependencies": []
+    },
+    "Latex/Limit of Differentiable functions.png": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 33003,
+      "exportedPath": "Latex/Limit of Differentiable functions.png",
+      "dependencies": []
+    },
+    "Latex/Pasted image 20240218121348.png": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 54306,
+      "exportedPath": "Latex/Pasted image 20240218121348.png",
+      "dependencies": []
+    },
+    "Latex/Pasted image 20240218230802.png": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 33206,
+      "exportedPath": "Latex/Pasted image 20240218230802.png",
+      "dependencies": []
+    },
+    "Measure Theory/L1(u).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 157,
+      "exportedPath": "Measure Theory/L1(u).html",
+      "dependencies": []
+    },
+    "Metric Spaces/Cauchy.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 175,
+      "exportedPath": "Metric Spaces/Cauchy.html",
+      "dependencies": []
+    },
+    "Metric Spaces/Complete.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 308,
+      "exportedPath": "Metric Spaces/Complete.html",
+      "dependencies": []
+    },
+    "Metric Spaces/Continuity (Metric Spaces).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 609,
+      "exportedPath": "Metric Spaces/Continuity (Metric Spaces).html",
+      "dependencies": []
+    },
+    "Metric Spaces/Continuous iff Inverse Preserves Open Sets.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 212,
+      "exportedPath": "Metric Spaces/Continuous iff Inverse Preserves Open Sets.html",
+      "dependencies": []
+    },
+    "Metric Spaces/Metric Space.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 399,
+      "exportedPath": "Metric Spaces/Metric Space.html",
+      "dependencies": []
+    },
+    "Metric Spaces/Open Ball.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 433,
+      "exportedPath": "Metric Spaces/Open Ball.html",
+      "dependencies": []
+    },
+    "Metric Spaces/Open Set (Metric Space).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 248,
+      "exportedPath": "Metric Spaces/Open Set (Metric Space).html",
+      "dependencies": []
+    },
+    "Set Theory/Finite Intersection Property.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 217,
+      "exportedPath": "Set Theory/Finite Intersection Property.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Accumulation Point.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 217,
+      "exportedPath": "Topology/Definitions/Accumulation Point.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Base.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 638,
+      "exportedPath": "Topology/Definitions/Base.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Boundary.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 238,
+      "exportedPath": "Topology/Definitions/Boundary.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Closure.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 579,
+      "exportedPath": "Topology/Definitions/Closure.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Cluster Point.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 318,
+      "exportedPath": "Topology/Definitions/Cluster Point.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Coarser (weaker).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 585,
+      "exportedPath": "Topology/Definitions/Coarser (weaker).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Compact (Topological Space).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 878,
+      "exportedPath": "Topology/Definitions/Compact (Topological Space).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Compact (Topological Subspace).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 512,
+      "exportedPath": "Topology/Definitions/Compact (Topological Subspace).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Compactly Supported.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 206,
+      "exportedPath": "Topology/Definitions/Compactly Supported.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Completely Regular (Tychonoff Space).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 402,
+      "exportedPath": "Topology/Definitions/Completely Regular (Tychonoff Space).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Continuous at a Point (Topology).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 389,
+      "exportedPath": "Topology/Definitions/Continuous at a Point (Topology).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Continuous Function (Topology).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 577,
+      "exportedPath": "Topology/Definitions/Continuous Function (Topology).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Convergence (Topological Space).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 326,
+      "exportedPath": "Topology/Definitions/Convergence (Topological Space).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Countably Compact.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 180,
+      "exportedPath": "Topology/Definitions/Countably Compact.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Dense.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 227,
+      "exportedPath": "Topology/Definitions/Dense.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Directed Set.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 451,
+      "exportedPath": "Topology/Definitions/Directed Set.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Embedding.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 297,
+      "exportedPath": "Topology/Definitions/Embedding.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Equicontinuous (at a Point).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 405,
+      "exportedPath": "Topology/Definitions/Equicontinuous (at a Point).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Equicontinuous (over a set of continuous functions).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 317,
+      "exportedPath": "Topology/Definitions/Equicontinuous (over a set of continuous functions).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Eventually.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 283,
+      "exportedPath": "Topology/Definitions/Eventually.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/First Category (Meager).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 241,
+      "exportedPath": "Topology/Definitions/First Category (Meager).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/First Countable (First Axiom of Countability).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 750,
+      "exportedPath": "Topology/Definitions/First Countable (First Axiom of Countability).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Frequently.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 270,
+      "exportedPath": "Topology/Definitions/Frequently.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Hausdorff Space (T2 Space).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 317,
+      "exportedPath": "Topology/Definitions/Hausdorff Space (T2 Space).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Homeomorphic.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 472,
+      "exportedPath": "Topology/Definitions/Homeomorphic.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Homeomorphism.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 472,
+      "exportedPath": "Topology/Definitions/Homeomorphism.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Interior.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 407,
+      "exportedPath": "Topology/Definitions/Interior.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/LCH (Locally Compact Hausdorff).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 151,
+      "exportedPath": "Topology/Definitions/LCH (Locally Compact Hausdorff).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Limit (Net).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 398,
+      "exportedPath": "Topology/Definitions/Limit (Net).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Linear Space of Continuous Real-Valued Functions.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 217,
+      "exportedPath": "Topology/Definitions/Linear Space of Continuous Real-Valued Functions.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Locally Compact.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 204,
+      "exportedPath": "Topology/Definitions/Locally Compact.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Neighborhood (of a point).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 523,
+      "exportedPath": "Topology/Definitions/Neighborhood (of a point).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Neighborhood (of a Set).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 210,
+      "exportedPath": "Topology/Definitions/Neighborhood (of a Set).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Neighborhood Base.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 519,
+      "exportedPath": "Topology/Definitions/Neighborhood Base.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Net.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1353,
+      "exportedPath": "Topology/Definitions/Net.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Norm Topology.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 492,
+      "exportedPath": "Topology/Definitions/Norm Topology.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Normal Space (T4 Space).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 373,
+      "exportedPath": "Topology/Definitions/Normal Space (T4 Space).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Nowhere Dense.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 273,
+      "exportedPath": "Topology/Definitions/Nowhere Dense.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/One-Point (Alexandroff) Compactification.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 726,
+      "exportedPath": "Topology/Definitions/One-Point (Alexandroff) Compactification.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Open Set (Topology).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 185,
+      "exportedPath": "Topology/Definitions/Open Set (Topology).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Partition of Unity.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 449,
+      "exportedPath": "Topology/Definitions/Partition of Unity.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Pointwise Bounded.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 313,
+      "exportedPath": "Topology/Definitions/Pointwise Bounded.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Precompact.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 164,
+      "exportedPath": "Topology/Definitions/Precompact.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Product Topology.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 506,
+      "exportedPath": "Topology/Definitions/Product Topology.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Regular Space (T3 Space).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 457,
+      "exportedPath": "Topology/Definitions/Regular Space (T3 Space).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Relative Topology.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 201,
+      "exportedPath": "Topology/Definitions/Relative Topology.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Relatively Open Sets (Topology).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 347,
+      "exportedPath": "Topology/Definitions/Relatively Open Sets (Topology).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Residual.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 110,
+      "exportedPath": "Topology/Definitions/Residual.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Second Category.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 304,
+      "exportedPath": "Topology/Definitions/Second Category.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Second Countability (Second Axiom of Countability).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 604,
+      "exportedPath": "Topology/Definitions/Second Countability (Second Axiom of Countability).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Separable.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 382,
+      "exportedPath": "Topology/Definitions/Separable.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Separation Axioms.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 443,
+      "exportedPath": "Topology/Definitions/Separation Axioms.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Sequentially Compact.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 397,
+      "exportedPath": "Topology/Definitions/Sequentially Compact.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Set of Continuous Maps from X to Y (C(X,Y)).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 134,
+      "exportedPath": "Topology/Definitions/Set of Continuous Maps from X to Y (C(X,Y)).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Set of Maps from A to X.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 271,
+      "exportedPath": "Topology/Definitions/Set of Maps from A to X.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Sigma Compact.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 196,
+      "exportedPath": "Topology/Definitions/Sigma Compact.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Subnet.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 513,
+      "exportedPath": "Topology/Definitions/Subnet.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Subordinate.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 267,
+      "exportedPath": "Topology/Definitions/Subordinate.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Support.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 256,
+      "exportedPath": "Topology/Definitions/Support.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/T0 Space.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 308,
+      "exportedPath": "Topology/Definitions/T0 Space.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/T1 Space.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 258,
+      "exportedPath": "Topology/Definitions/T1 Space.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Topological Space.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 256,
+      "exportedPath": "Topology/Definitions/Topological Space.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Topology.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 685,
+      "exportedPath": "Topology/Definitions/Topology.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Topology Generated by e (subbase).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 470,
+      "exportedPath": "Topology/Definitions/Topology Generated by e (subbase).html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Topology of Uniform Convergence.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 236,
+      "exportedPath": "Topology/Definitions/Topology of Uniform Convergence.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Topology of Uniform Convergence on Compact Sets.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 274,
+      "exportedPath": "Topology/Definitions/Topology of Uniform Convergence on Compact Sets.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Vanishes at Infinity.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 474,
+      "exportedPath": "Topology/Definitions/Vanishes at Infinity.html",
+      "dependencies": []
+    },
+    "Topology/Definitions/Weak Topology.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 803,
+      "exportedPath": "Topology/Definitions/Weak Topology.html",
+      "dependencies": []
+    },
+    "Topology/Results/4.1 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 498,
+      "exportedPath": "Topology/Results/4.1 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.2 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 530,
+      "exportedPath": "Topology/Results/4.2 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.3 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 662,
+      "exportedPath": "Topology/Results/4.3 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.4 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 252,
+      "exportedPath": "Topology/Results/4.4 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.5 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 144,
+      "exportedPath": "Topology/Results/4.5 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.6 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 282,
+      "exportedPath": "Topology/Results/4.6 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.7 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 99,
+      "exportedPath": "Topology/Results/4.7 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.8 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 177,
+      "exportedPath": "Topology/Results/4.8 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.9 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 237,
+      "exportedPath": "Topology/Results/4.9 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.10 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 164,
+      "exportedPath": "Topology/Results/4.10 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.11 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 332,
+      "exportedPath": "Topology/Results/4.11 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.12 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 314,
+      "exportedPath": "Topology/Results/4.12 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.13 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 339,
+      "exportedPath": "Topology/Results/4.13 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.14 Lemma (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 439,
+      "exportedPath": "Topology/Results/4.14 Lemma (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.17 Corollary (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 158,
+      "exportedPath": "Topology/Results/4.17 Corollary (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.18 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 338,
+      "exportedPath": "Topology/Results/4.18 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.19 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 332,
+      "exportedPath": "Topology/Results/4.19 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.20 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 286,
+      "exportedPath": "Topology/Results/4.20 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.21 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 288,
+      "exportedPath": "Topology/Results/4.21 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.22 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 145,
+      "exportedPath": "Topology/Results/4.22 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.23 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 242,
+      "exportedPath": "Topology/Results/4.23 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.24 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 222,
+      "exportedPath": "Topology/Results/4.24 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.25 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 166,
+      "exportedPath": "Topology/Results/4.25 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.26 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 214,
+      "exportedPath": "Topology/Results/4.26 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.27 Corollary (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 175,
+      "exportedPath": "Topology/Results/4.27 Corollary (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.28 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 273,
+      "exportedPath": "Topology/Results/4.28 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.29 Theorem (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 310,
+      "exportedPath": "Topology/Results/4.29 Theorem (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.30 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 293,
+      "exportedPath": "Topology/Results/4.30 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.31 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 321,
+      "exportedPath": "Topology/Results/4.31 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.33 Corollary (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 150,
+      "exportedPath": "Topology/Results/4.33 Corollary (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.35 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 307,
+      "exportedPath": "Topology/Results/4.35 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.36 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 591,
+      "exportedPath": "Topology/Results/4.36 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.37 Lemma (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 219,
+      "exportedPath": "Topology/Results/4.37 Lemma (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.38 Lemma (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 298,
+      "exportedPath": "Topology/Results/4.38 Lemma (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.39 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 266,
+      "exportedPath": "Topology/Results/4.39 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.40 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 785,
+      "exportedPath": "Topology/Results/4.40 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/4.41 Proposition (Folland).md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 382,
+      "exportedPath": "Topology/Results/4.41 Proposition (Folland).html",
+      "dependencies": []
+    },
+    "Topology/Results/Arzela-Ascoli Theorem I.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 533,
+      "exportedPath": "Topology/Results/Arzela-Ascoli Theorem I.html",
+      "dependencies": []
+    },
+    "Topology/Results/Arzela-Ascoli Theorem II.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 475,
+      "exportedPath": "Topology/Results/Arzela-Ascoli Theorem II.html",
+      "dependencies": []
+    },
+    "Topology/Results/Tietze Extension Theorem.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 196,
+      "exportedPath": "Topology/Results/Tietze Extension Theorem.html",
+      "dependencies": []
+    },
+    "Topology/Results/Tietze Extension Theorem, Locally Compact Version.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 297,
+      "exportedPath": "Topology/Results/Tietze Extension Theorem, Locally Compact Version.html",
+      "dependencies": []
+    },
+    "Topology/Results/Tychonoff's Theorem.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 264,
+      "exportedPath": "Topology/Results/Tychonoff's Theorem.html",
+      "dependencies": []
+    },
+    "Topology/Results/Urysohn's Lemma.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 487,
+      "exportedPath": "Topology/Results/Urysohn's Lemma.html",
+      "dependencies": []
+    },
+    "Topology/Results/Urysohn's Lemma, Locally Compact Version.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 353,
+      "exportedPath": "Topology/Results/Urysohn's Lemma, Locally Compact Version.html",
+      "dependencies": []
+    },
+    "Dyadic Rational.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 256,
+      "exportedPath": "Dyadic Rational.html",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 15,
+      "exportedPath": "README.html",
+      "dependencies": []
+    },
+    "Uniform Metric.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 258,
+      "exportedPath": "Uniform Metric.html",
+      "dependencies": []
+    },
+    "Vanish.md": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 98,
+      "exportedPath": "Vanish.html",
+      "dependencies": []
+    },
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1709017701533,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
